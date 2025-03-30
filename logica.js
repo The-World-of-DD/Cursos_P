@@ -37,3 +37,16 @@ for (let i = 0; i < frutaFrutita.length; i++)
 {
 	console.log(frutaFrutita[i]);
 }
+
+//el FOR OF
+
+let animales = ["Hola", "Mundo", "Bicho"];
+for(let animal of animales)//podemos crear una nueva var dentro de la anterior
+{
+	console.log(animal);
+}
+
+while (i < animales.length)//cuando usamos lenght busca entre numeros
+{
+
+}
